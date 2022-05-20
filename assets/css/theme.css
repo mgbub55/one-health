@@ -141,11 +141,11 @@ a.bg-dark:hover, a.bg-dark:focus {
 }
 
 .text-primary {
-  color: #00D9A5 !important;
+  color: blue !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
-  color: #07be94 !important;
+  color: blue !important;
 }
 
 .text-accent {
@@ -226,7 +226,7 @@ a.text-dark:hover, a.text-dark:focus {
 
 
 .border-primary {
-  border-color: #00D9A5 !important;
+  border-color: blue !important;
 }
 
 .border-secondary {
